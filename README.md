@@ -1,4 +1,4 @@
-# Teste A/B para jogos de celular
+# Teste A/B para jogo de celular
 
 ## Visão Geral
 
