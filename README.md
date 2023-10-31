@@ -20,7 +20,7 @@ Vamos analisar os dados o conjunto de dados de 90.189 jogadores. Cookie Cats é 
 
 ## O Processo
 
-O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scipy. Neste projeto foi feito, uma análise exploratória, e foi feito testes estatísticos para avaliar o impacto da mudança das versões dos jogos na retenção de jogadores.
+O primeiro passo do projeto foi adquirir os dados. Utilizamos os dados do portal Kaagle, carregando-o no Google Colab, para a exploração e análise dos dados utilizando a linguagem de programação Python e suas bibliotecas, como Pandas, Matplotlib e Scipy. Neste projeto foi feito, uma análise exploratória, e foi feito teste A/B para avaliar o impacto da mudança das versões dos jogos na retenção de jogadores.
 
 ## Resultados
 
